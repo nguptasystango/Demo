@@ -28,7 +28,31 @@ Dashboard:
 - cd my_app
 - npm start  
 
-# Enject css
+# Eject css
+Run commands
+-> npm run eject
+-> rename file with filename.module.css
+
+Routing:
+-> npm install react-route
+-> npm install react-router-dom
+
+Integrate bootstrap:
+Run command
+-> npm install --save bootstrap
+Add in indes.js file
+-> import 'bootstrap/dist/css/bootstrap.css'; 
+
+Implement Redux
+https://redux.js.org/recipes/configuring-your-store
+Run command
+-> npm install --save react-redux
+Configure store
+
+Login/Registration (example)
+https://stackblitz.com/edit/react-redux-registration-login-example?file=App%2FApp.js
+
+
 
 
 #Project setup using webpack:
